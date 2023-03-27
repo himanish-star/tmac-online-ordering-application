@@ -4,10 +4,10 @@
     "slug": "tmac-mobile-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/ios/iTunesArtwork@3x.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/ios/iTunesArtwork@3x.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,12 +19,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/ios/iTunesArtwork@3x.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/ios/iTunesArtwork@3x.png"
     }
   }
 }
