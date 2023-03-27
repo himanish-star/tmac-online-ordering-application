@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "tmac-mobile-app",
+    "name": "T-MAC Ordering Application",
     "slug": "tmac-mobile-app",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/ios/iTunesArtwork@3x.png",
     "userInterfaceStyle": "light",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/ios/iTunesArtwork@3x.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.tmacrestaurant.orderingapplication"
     },
     "web": {
       "favicon": "./assets/ios/iTunesArtwork@3x.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c710313d-0acc-477d-ba0b-77f6c77f5905"
+      }
     }
   }
 }
